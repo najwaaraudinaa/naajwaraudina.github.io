@@ -17,7 +17,7 @@
   <body id="home">
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-lightbg-primary shadow-sm" 
-    style="background-color:rgb(131, 199, 245);">
+    style="background-color:rgb(245, 105, 210);">
         <a class="navbar-brand" href="#">Nita Rahmani</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -45,7 +45,7 @@
 
     <!-- Jumbotron -->
     <section class="Jumbotron text-center">
-      <img src="awan/WhatsApp Image 2023-11-29 at 12.50.09.jpeg" alt="Nita" width="200"
+      <img src="img/41c076fe42e54ad976299844eceb76ba.jpg" alt="Nita" width="200"
        class="rounded-circle img-thumbnail "/>
       <h1 class="display-4">Nita Blog</h1>
       <p class="lead">its all about sea and sky˖°🌊𓇼⋆🦪₊</p>
@@ -57,7 +57,7 @@
     <section id="About">
     <div class="row text-center mb-3">
       <div class="col">
-        <h2>🦋🌨️₊˚.🎧 ˚.🩵*🎐✩｡  sea n sky 🦋🌨️₊˚.🎧 ˚.🩵*🎐✩｡</h2>
+        <h2>sea n sky🦋🌨️₊˚.🎧 ˚.🩵*🎐✩｡</h2>
       </div>
       </div>
     </div>
@@ -82,26 +82,26 @@
         <div class="row text-center justify-content-evenly">
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="sky2/WhatsApp Image 2023-11-29 at 12.50.12.jpeg" class="card-img-top" alt="BluePink Cake"/>
+              <img src="img 1/966736b0f455d221d9f3b71f14167b7e.jpg" class="card-img-top" alt="BluePink Cake"/>
               <div class="card-body">
-                <p class="card-text">cloud nine feels fine</p>☁💙🤍ㅤ ᵕ̈♡︎
+                <p class="card-text">🤎🤎🤎Choco Cake🤎🤎🤎</p>
               </div>
             </div>
           </div class="row text-center justify-content-evenly">
             <div class="col-md-4 mb-3">
               <div class="card">
-                <img src="sky1/WhatsApp Image 2023-11-29 at 12.55.40.jpeg" class="card-img-top" alt="BluePink Cake"/>
-                <div class="card-body">🌊🐬
-                  <p class="card-text">where the sky meets the sea</p>
+                <img src="img2/6764a23712648c4db8370b1c0f18ebee.jpg" class="card-img-top" alt="BluePink Cake"/>
+                <div class="card-body">
+                  <p class="card-text">💗💗💗RedVelvet cake💗💗💗</p>
                 </div>
               </div>
               </div>
               <div class="row text-center justify-content-evenly">
                 <div class="col-md-4 mb-3">
                   <div class="card">
-                    <img src="sky/WhatsApp Image 2023-11-29 at 13.10.02.jpeg" class="card-img-top" alt="BluePink Cake"/>
+                    <img src="img3/538b9e2ad37aa80240463afce415e8ec.jpg" class="card-img-top" alt="BluePink Cake"/>
                     <div class="card-body">
-                      <p class="card-text">cotton candy skies<‧₊˚ 💙⋅♡𓂃 ࣪ ִֶָ☾./p>
+                      <p class="card-text">💚💚💚Matcha Cake💚💚💚</p>
                     </div>
                   </div>
                 </div>
@@ -128,6 +128,9 @@
                       <div class="mb-3">
                       <label for="Email" class="form-label">Email address</label>
                       <input type="email" class="form-control" id="Email1" aria-describedby="emailHelp">
+                      <div class="mb-3">
+                        <label for="Order" class="form-label">Order</label>  
+                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                       </div>
                     </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
