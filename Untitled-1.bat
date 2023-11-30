@@ -12,13 +12,13 @@
 
     <!-- My CSS  -->
     <link rel="stylesheet" href="style.css" />
-    <title>My Portofolio | Nita Rahmani</title>
+    <title>Nana website | Najwa Raudina</title>
   </head>
   <body id="home">
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-lightbg-primary shadow-sm" 
     style="background-color:rgb(245, 105, 210);">
-        <a class="navbar-brand" href="#">Nita Rahmani</a>
+        <a class="navbar-brand" href="#">Najwa Raudina</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -45,10 +45,10 @@
 
     <!-- Jumbotron -->
     <section class="Jumbotron text-center">
-      <img src="img/41c076fe42e54ad976299844eceb76ba.jpg" alt="Nita" width="200"
+      <img src="img/41c076fe42e54ad976299844eceb76ba.jpg" alt="najwa" width="200"
        class="rounded-circle img-thumbnail "/>
-      <h1 class="display-4">Nita Blog</h1>
-      <p class="lead">its all about sea and sky˖°🌊𓇼⋆🦪₊</p>
+      <h1 class="display-4">🎀nanabakery🎀</h1>
+      <p class="lead">🌷this home of cake🌷</p>
      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="0.5" d="M0,288L48,272C96,256,192,224,288,197.3C384,171,480,149,576,165.3C672,181,768,235,864,250.7C960,267,1056,245,1152,250.7C1248,256,1344,288,1392,304L1440,320L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
     </section>
     <!-- Akhir Jumbotron -->
@@ -57,18 +57,9 @@
     <section id="About">
     <div class="row text-center mb-3">
       <div class="col">
-        <h2>sea n sky🦋🌨️₊˚.🎧 ˚.🩵*🎐✩｡</h2>
+        <h2> 🌷we have already many variant you must try🌷</h2>
       </div>
       </div>
-    </div>
-    <div class="row justify-content-center fs-5 text-center">
-<div class="col-4">
-  <p>the clouds in the sky are like thoughts on our mind</p>
-  <div class="col">
-<p>beach days and ocean waves</p>🌬✨🦋💦
-  </div>
-</div>
-    </div>
    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="0.5" d="M0,288L48,272C96,256,192,224,288,197.3C384,171,480,149,576,165.3C672,181,768,235,864,250.7C960,267,1056,245,1152,250.7C1248,256,1344,288,1392,304L1440,320L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
     <!-- Akhir About -->
 
@@ -145,7 +136,7 @@
     <!-- Footer -->
   <section>
       <footer class="bg-primary text-white text-center">
-        <p>Created with <i class="bi bi-cake2"></i>Love by Nita Rahmani</p>
+        <p>Created with <i class="bi bi-cake2"></i>Love by najwa raudina</p>
       </footer>
     <!-- Akhir Footer -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
